@@ -1,25 +1,162 @@
-.bot-container {
-    background-color: #121212;
-    color: #ffffff;
+/* bot-dark-theme.css */
+
+/* Container */
+.c-iLVmPU.t-czMWqJ,
+.vfrc-chat,
+.c-ealvbK,
+.c-ealvbK-jVNirx-withPrompt-false {
+  background-color: #121212;
+  color: #ffffff;
 }
 
-.bot-message {
-    background-color: #1f1f1f;
-    color: #ffffff;
+/* Header */
+.vfrc-header,
+.c-iCDrnV {
+  background-color: #1f1f1f;
+  color: #ffffff;
 }
 
-.user-message {
-    background-color: #333333;
-    color: #ffffff;
+/* Avatar */
+.vfrc-avatar,
+.c-kIbiaN,
+.c-kIbiaN-iiTsXc-size-small,
+.c-kIbiaN-igMULrX-css,
+.c-kIbiaN-eyfkxi-size-large,
+.c-kIbiaN-ibQGcTt-css {
+  background-color: #1f1f1f;
 }
 
-.input-field {
-    background-color: #1f1f1f;
-    color: #ffffff;
-    border: 1px solid #333333;
+/* Header Title */
+.vfrc-header--title,
+.c-kfyIxT {
+  color: #ffffff;
 }
 
-.send-button {
-    background-color: #333333;
-    color: #ffffff;
+/* Header Button */
+.c-dzcdPv,
+.vfrc-header--button,
+.c-dxAZjf,
+.vfrc-icon,
+.c-dhzjXW {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Main Chat Dialog */
+.vfrc-chat--dialog,
+.c-Mmsau {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Assistant Info */
+.vfrc-assistant-info,
+.c-jJnANo,
+.vfrc-assistant-info--title,
+.c-cXYoYW,
+.vfrc-assistant-info--description,
+.c-eLmjZC {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+/* Chat Spacer */
+.vfrc-chat--spacer,
+.c-eGaVeY,
+.vfrc-chat--session-time,
+.c-bbTBUn,
+.vfrc-system-response--controls,
+.c-cmpvrW {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* System Response */
+.vfrc-system-response,
+.c-gSBsRr,
+.vfrc-system-response--message,
+.PJLV,
+.vfrc-message,
+.c-gMpNkY,
+.vfrc-message--chat,
+.c-PJLV,
+.c-PJLV-jueArD-from-system,
+.c-kLDnXB {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+/* Timestamp */
+.vfrc-timestamp,
+.c-eAEsei {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* System Response with Image */
+.vfrc-system-response--message,
+.c-gSBsRr-jjOUdr-withImage-true {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+/* System Response Actions */
+.vfrc-system-response--actions,
+.c-iBVlvN,
+.vfrc-button,
+.c-jjMiVY,
+.vfrc-button--secondary,
+.c-kCDKCe {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Footer */
+.vfrc-footer,
+.c-kbCYVp,
+.vfrc-chat-input,
+.c-cNrVYs {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Text Area */
+textarea#vf-chat-input--clxp26b2d000135721cqx8j8e,
+.c-fYYkXN {
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border: 1px solid #333333;
+}
+
+/* Chat Input Button */
+.vfrc-chat-input--button,
+.c-iSWgdS,
+.c-dzcdPv,
+.vfrc-bubble,
+.c-tbgzS,
+.c-tbgzS-fIQXEE-size-small,
+.vfrc-icon,
+.c-dhzjXW,
+.c-dhzjXW-iPJLV-css {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+/* Chat Overlay */
+.vfrc-chat--overlay,
+.c-lajUCC {
+  background-color: #121212;
+}
+
+/* Chat Prompt */
+.vfrc-prompt,
+.c-koXsWI,
+.vfrc-button,
+.c-jjMiVY,
+.vfrc-button--primary,
+.c-bXTvXv,
+.c-bXTvXv-XJvOL-type-warn,
+.c-bXTvXv-igaDqE-type-subtle {
+  background-color: #333333;
+  color: #ffffff;
 }
