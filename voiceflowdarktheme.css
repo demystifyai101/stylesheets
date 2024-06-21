@@ -1,0 +1,25 @@
+.bot-container {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.bot-message {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.user-message {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.input-field {
+    background-color: #1f1f1f;
+    color: #ffffff;
+    border: 1px solid #333333;
+}
+
+.send-button {
+    background-color: #333333;
+    color: #ffffff;
+}
