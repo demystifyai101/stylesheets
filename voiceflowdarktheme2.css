@@ -1,0 +1,119 @@
+/* use this file to override default styles when forking this repository */
+
+/*
+  PAGE CONTENTS
+
+  Customize the page that the chat bubble lives on
+*/
+
+.voiceflow-chat {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.vfrc-launcher {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.vfrc-chat--overlay {
+    background-color: #121212;
+}
+
+/*
+  CHAT WIDGET HEADER
+
+  Customize the content, controls and styling included in your chat widget header, including the Assistant Information.
+  Note that changes to the assistant information here will be shared across other elements that consume this styling.
+*/
+
+.vfrc-header {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.vfrc-assistant-info {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.vfrc-assistant-info--title {
+    color: #ffffff;
+}
+
+.vfrc-assistant-info--description {
+    color: #ffffff;
+}
+
+.vfrc-avatar {
+    background-color: #1f1f1f;
+}
+
+.vfrc-icon {
+    color: #ffffff;
+}
+
+/*
+  CHAT MESSAGE BODY
+
+  Customize the layout and display of the chat body, and the conversation's metadata
+*/
+
+.vfrc-chat {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.vfrc-chat--dialog {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.vfrc-chat--spacer {
+    background-color: #121212;
+}
+
+.vfrc-chat--session-time {
+    color: #ffffff;
+}
+
+.vfrc-chat--status {
+    color: #ffffff;
+}
+
+.vfrc-message {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.vfrc-timestamp {
+    color: #ffffff;
+}
+
+/*
+  ASSISTANT RESPONSES
+
+  Customize the style and layout of assistant response messages.
+*/
+
+.vfrc-system-response--indicator {
+    color: #ffffff;
+}
+
+.vfrc-system-response {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.vfrc-system-response--controls {
+    color: #ffffff;
+}
+
+.vfrc-system-response--list {
+    background-color: #1f1f1f;
+    color: #ffffff;
+}
+
+.vfrc-system-response--actions {
+    background-color: #1f1f1f;
+}
